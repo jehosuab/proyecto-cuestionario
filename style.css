@@ -1,0 +1,27 @@
+body{
+  background-color: gray;
+  font-size: 10px;
+  font-family: sans-serif;
+  color: white;
+}
+
+.margin{
+  text-align: left;
+  margin: 0px auto;
+}
+.blue-color{
+  background-color: blue;
+}
+.border{
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  border-ratius: 25px;
+  margin: 0px auto;
+  max-width: 400px;
+}
+
+.p{
+  font-size: 40px;
+  text-align: center;
+}
